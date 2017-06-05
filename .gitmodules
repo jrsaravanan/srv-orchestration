@@ -1,0 +1,3 @@
+[submodule "person-srv"]
+	path = person-srv
+	url = https://github.com/jrsaravanan/person-srv
